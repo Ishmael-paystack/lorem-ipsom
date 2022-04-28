@@ -1,0 +1,3 @@
+auto_merge:
+  delay: 5
+  marge_strategy: 'merge'
